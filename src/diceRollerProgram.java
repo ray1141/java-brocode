@@ -27,6 +27,7 @@ public class diceRollerProgram {
             System.out.println("Your total of all the roles is: " + total);
         }
         else System.out.println("Number of dice must be greater than 0");
+        sc.close();
 
     }
     //display ASCII art
